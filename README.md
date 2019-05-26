@@ -16,3 +16,4 @@ Mulit Polytris Game - JavaScript Game
 
 # Reference
 - tetris
+<img src="https://github.com/Phatjira/Multi_Polytris/blob/master/images/61Wvdn29vZL.png">
