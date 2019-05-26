@@ -2,6 +2,8 @@
 Mulit Polytris Game - JavaScript Game
 
 #### Project นี้ เป็นส่วนหนึ่งของวิชา Multimedia Technology
+### Play : https://multi-itkmitl.github.io/Multimedia-2018-Project/game/polytris/
+### Clip : 
 
 # HOW TO PLAY
 - เป้าหมายของเกม คือหยุดบล็อกไม่ให้เข้าไปด้านในของรูปหกเหลี่ยมสีเทาด้านนอก
